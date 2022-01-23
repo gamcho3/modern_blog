@@ -1,4 +1,4 @@
-//import { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { Layout } from "../components"; //index값으로 이동
 import "../styles/globals.scss";
 import "tailwindcss/tailwind.css";
